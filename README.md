@@ -2,6 +2,10 @@ Calculator that can add, subtract, multiply, divide two numbers.
 
 Calculator can also add a String of numbers and an array of Int numbers
 
+
+-------------------------------------------------------------------------
+
+
 $ git status
 On branch main
 Your branch is up to date with 'origin/main'.
@@ -9,6 +13,7 @@ Your branch is up to date with 'origin/main'.
 nothing to commit, working tree clean
 
 
+-------------------------------------------------------------------------
 
 $ git log
 commit 12d6d8ae7054dc128d9e314aa5b02d879110d61d (HEAD -> main, origin/main)
