@@ -15,6 +15,8 @@ public class CalculatorTest {
     assertEquals(4, test.subtract(10,6));
     assertEquals(6, test.multiply(2,3));
     assertEquals(3, test.divide(9,3));
+    assertEquals(6, test.add("1,2,3"));
+    assertEquals(6,test.add(new int[]{1,2,3}));
 
 
     }
