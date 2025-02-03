@@ -21,7 +21,7 @@ public class Calculator {
     public int add(String numbers) {
         int sum = 0;
         for (String num : numbers.split(",")) {
-
+            sum += Integer.parseInt(num);
         }  return sum;
     }
 
